@@ -1,0 +1,11 @@
+private-evidence/
+*.pcap
+*.pcapng
+*.evtx
+*.log
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/

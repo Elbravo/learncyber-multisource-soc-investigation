@@ -1,0 +1,10 @@
+time_utc,source,indicator,activity,result,confidence
+13:30,Cloudflare WAF,REDACTED_WEB_SOURCE,Suspicious request to /wp-config.php-backup,Blocked,High
+14:25,SSH/auth.log,REDACTED_SSH_SOURCE,Connection observed,Connection closed,High
+14:28,SSH/auth.log,REDACTED_SSH_SOURCE,Root authentication failure,Failed,High
+14:29,SSH/auth.log,REDACTED_SSH_SOURCE,Failed password for root,Failed,High
+14:30,SSH/auth.log,REDACTED_SSH_SOURCE,Root authentication failure,Failed,High
+14:30,SSH/auth.log,REDACTED_SSH_SOURCE,Failed password for root,Failed,High
+14:32,SSH/auth.log,REDACTED_SSH_SOURCE,Root authentication failure,Failed,High
+14:32,SSH/auth.log,REDACTED_SSH_SOURCE,Failed password for root,Failed,High
+14:34,Firewall,REDACTED_SSH_SOURCE,Source containment applied,Blocked,High
